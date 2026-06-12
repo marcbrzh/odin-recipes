@@ -17,8 +17,11 @@ The site includes a main index page with links to a few recipes.
 
 ## 🍽️ Recipes Included
 
-- [Recipe Name 1]
-- [Recipe Name 2]
-- [Recipe Name 3]
+- Carbonara
+- Lasagna
+- Risotto
 
-> *Add actual recipe names here once you've created them*
+## Author
+
+Marc
+https://github.com/marcbrzh
